@@ -6,7 +6,7 @@ permalink: /about
 
 Bonjour mon nom est William Morel, j’ai 19 ans et je suis finissant en Techniques d’intégration multimédia au Collège Montmorency à Laval. Je suis un passionné de design, de création 2D et 3D et de la création intéractive. Je suis assez polyvalent et très créatif. Cette créativité se reflète sur mes travaux.
 
-## Compétences
+Compétences
 - Animation 3D : Autodesk Maya, Unity, Spline, Houdini, Blender
 - Animation 2D : After Effects
 - Design : Adobe Illustrator, Adobe XD, Adobe Photoshop, Figma
@@ -16,4 +16,4 @@ Bonjour mon nom est William Morel, j’ai 19 ans et je suis finissant en Techniq
 - Montage vidéo : DaVinci Resolve
 - Conception sonore : VCV Rack, Reaper
 
-## Curriculum Vitae
+[Curriculum vitae](https://www.canva.com/design/DAFuvcQ_k5U/h-1JMdsiX8InLFMxGPh6oA/view?utm_content=DAFuvcQ_k5U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
