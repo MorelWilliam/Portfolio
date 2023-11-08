@@ -3,17 +3,17 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'About',    url: 'about'}
+- {name: 'À propos',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
+- {name: 'Humano',   url: 'proj-1'}
+- {name: 'Contrôle',   url: 'proj-2'}
+- {name: 'Design', url: 'proj-3'}
+- {name: 'Production intéractive',  url: 'proj-4'}
 
 #-------------------------------
 # Contact Section
