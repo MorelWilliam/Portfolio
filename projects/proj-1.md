@@ -19,4 +19,4 @@ Humano est un projet réalisé dans le cadre du cours d'Animation 3D et de Conce
 - Créateur sonore
 - Monteur vidéo
 
-[![Humano](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/NXQ7xD3HRzs)
+[![Humano](projects/proj-1/thumbnail.png)](https://youtu.be/NXQ7xD3HRzs)
