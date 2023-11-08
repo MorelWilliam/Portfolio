@@ -12,7 +12,7 @@ Humano est un projet réalisé dans le cadre du cours d'Animation 3D et de Conce
 - Reaper
 - VCV Rack
 
-**Rôle**
+Rôle
 - Modélisateur 3D
 - Animateur 3D
 - Créateur sonore
