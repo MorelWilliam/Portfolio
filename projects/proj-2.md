@@ -1,8 +1,23 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Contrôle'
 ---
+Contrôle est un projet réalisé dans le cadre du cours de Montage Vidéo. À l'aide de 4 de mes cooéquipers, nous avons réalisé une oeuvre critiquant la sur utilisation de la surveillance durant la 2e guerre mondiale. Pour ce faire, nous avons idéalisé l'histoire d'une société où tout était filmé et chaque pas de votre journée étaient capté par ces caméras. Avec mes cooéquipers, nous avons parcouru les stations de métro pour trouver celle qui nous convenait. Par ailleurs, lors du montage, nous avons dû utiliser un "template" pour pouvoir afficher nos vidéos sur 4 écrans différents. Ce projet nous a appris comment l'emplacement de visionnement change drastiquement l'expérience des spectateurs.
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+## Matériels utilisés 
+- Caméra - Sony A6500
+- Objectif Sony 55-210 MM
+- Objectif Sony 35 MM 
+- Stabilisateur DJI Roniz-S
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+## Logiciels utilisés
+- Davinci Studio
+
+## Rôle
+- Assistant réalisateur
+- Directeur de la photographie
+- Monteur vidéo
+
+
+{% include image.html url="http://www.gratisography.com" image="projects/proj-5/gun-pants.jpg" %}
+[![Contrôle](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/tqY_zUwS9lI)

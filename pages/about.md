@@ -1,9 +1,19 @@
 ---
 layout: page
-title: About
+title: À propos
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+Bonjour mon nom est William Morel, j’ai 19 ans et je suis finissant en Techniques d’intégration multimédia au Collège Montmorency à Laval. Je suis un passionné de design, de création 2D et 3D et de la création intéractive. Je suis assez polyvalent et très créatif. Cette créativité se reflète sur mes travaux.
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+## Compétences
+- Animation 3D : Autodesk Maya, Unity, Spline, Houdini, Blender
+- Animation 2D : After Effects
+- Design : Adobe Illustrator, Adobe XD, Adobe Photoshop, Figma
+- Développement Web : SCSS, CSS, HTML, Bootstrap, Wordpress, Github
+- Développement de jeux vidéos : Unity, Unreal Engine
+- Intéractivité : QLC +, HyperHDR, Max 8, MadMapper, OBS, Arduino
+- Montage vidéo : DaVinci Resolve
+- Conception sonore : VCV Rack, Reaper
+
+## Curriculum Vitae

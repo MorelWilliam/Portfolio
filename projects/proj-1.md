@@ -1,9 +1,22 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Humano'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+Humano est un projet réalisé dans le cadre du cours d'Animation 3D et de Conception sonore intéractive. La tâche du projet était de modéliser, d'animer et de créer une ambiance sonore sur le thème de l'empathie abstrait. J'ai décidé de créer une oeuvre qui n'avait pas de sens précis, mais qui était attrayant. Pour créer et animer les modèles 3D, j'ai utilisé le logiciel Maya Autodesk. À l'aide du « nCloth », « Passive Collider » et du « Gravity » j'ai pu réaliser certains effets qui n'auraient pas été possible sans ceux-ci. Pour la création sonore, j'ai utilisé le logiciel Reaper et le logiciel VCV Rack.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+## Logiciels utilisés
+- Autodesk Maya
+- Blender
+- Substance
+- DaVinci Resolve
+- Reaper
+- VCV Rack
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+
+## Rôle
+- Modélisateur 3D
+- Animateur 3D
+- Créateur sonore
+- Monteur vidéo
+
+[![Humano](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/NXQ7xD3HRzs)
