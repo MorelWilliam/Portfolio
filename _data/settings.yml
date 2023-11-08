@@ -3,7 +3,6 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
@@ -15,14 +14,11 @@ projects:
 - {name: 'Project Two',   url: 'proj-2'}
 - {name: 'Project Three', url: 'proj-3'}
 - {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'github',    link: 'https://github.com/lenpaul'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
 - {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
@@ -34,10 +30,6 @@ social:
 
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
-seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
 
 #-------------------------------
 # Google Analytics Section
