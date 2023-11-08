@@ -18,4 +18,4 @@ Rôle
 - Créateur sonore
 - Monteur vidéo
 
-[![Humano](projects/proj-1/thumbnail.png)](https://youtu.be/NXQ7xD3HRzs)
+[![Humano](file:///C:/Users/Willi/Downloads/IMG_4147.jpg)](https://youtu.be/NXQ7xD3HRzs)
