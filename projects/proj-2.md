@@ -19,5 +19,4 @@ Contrôle est un projet réalisé dans le cadre du cours de Montage Vidéo. À l
 - Monteur vidéo
 
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-5/gun-pants.jpg" %}
-[![Contrôle](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/tqY_zUwS9lI)
+[![Contrôle](projects/proj-1/thumbnail.png)](https://youtu.be/tqY_zUwS9lI)
